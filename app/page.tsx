@@ -16,7 +16,7 @@ export default function Home() {
               <input className="border border-gray-200 pl-6 p-2 w-80 lg:w-100" id="email" placeholder="example@gmail.com" required /></div>
                 <div className="flex flex-col gap-1">
               <label htmlFor="phone">Mobile Number</label>
-              <input className="border border-gray-200 pl-6 p-2 w-80 lg:w-100"  id="phone" placeholder="+91-xxxxx-xxxxx" required /></div>
+              <input className="border border-gray-200 pl-6 p-2 w-80 lg:w-100"  id="phone" type="number" placeholder="+91-xxxxx-xxxxx" required /></div>
 
               {/* <select className="border border-gray-200 pl-6 p-2 w-80 lg:w-100 text-black" required >
                 <option value="clue">How did you find us?</option>
