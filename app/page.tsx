@@ -42,6 +42,7 @@ export default function Home() {
               </div>
             </div>
           </form>
+          
         </div>
         <div className="lg:absolute lg:left-165 w-90 h-75 md:h-95 lg:h-120 lg:w-110 p-4 lg:p-10">
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1754.2757374872476!2d77.1030103050649!3d28.43278779077166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1f54f16ced07%3A0xb22fdbe424a0242b!2sSector%2054%20Chowk!5e0!3m2!1sen!2sin!4v1773394716577!5m2!1sen!2sin" className="w-full h-full border-none rounded-2xl lg:rounded-none" style={{ border: 0 }} loading="lazy"></iframe>
